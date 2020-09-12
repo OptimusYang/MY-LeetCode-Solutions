@@ -1,6 +1,5 @@
-package tim.d637;
+package tim.d637.average_of_levels_in_binary_tree;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 

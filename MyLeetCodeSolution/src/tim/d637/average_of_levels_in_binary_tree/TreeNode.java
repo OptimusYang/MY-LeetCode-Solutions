@@ -1,4 +1,4 @@
-package tim.d637;
+package tim.d637.average_of_levels_in_binary_tree;
 
 public class TreeNode {
     int val;
