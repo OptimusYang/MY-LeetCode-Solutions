@@ -1,5 +1,7 @@
 package tim.d637.average_of_levels_in_binary_tree;
 
+import tim.common.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

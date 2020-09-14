@@ -52,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.BestSolution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="BestSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tim.d79.word_search.BestSolution" />
       <module name="MyLeetCodeSolution" />
@@ -79,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tim.d94.binary_tree_inorder_traversal.Solution" />
+      <module name="MyLeetCodeSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tim.d94.binary_tree_inorder_traversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tim.d637.average_of_levels_in_binary_tree.Solution" />
       <module name="MyLeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tim.d637.average_of_levels_in_binary_tree.*" />
+          <option name="PATTERN" value="tim.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,19 +118,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.BestSolution" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution (1)" />
@@ -137,7 +153,8 @@
       <workItem from="1599924238232" duration="3202000" />
       <workItem from="1599931621593" duration="866000" />
       <workItem from="1599968963416" duration="608000" />
-      <workItem from="1600003846730" duration="5282000" />
+      <workItem from="1600003846730" duration="5678000" />
+      <workItem from="1600095000972" duration="1854000" />
     </task>
     <servers />
   </component>
@@ -168,6 +185,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599921142020" />
+    <state x="1064" y="600" width="431" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600095065635">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1064" y="600" width="431" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1600095065635" />
     <state width="473" height="466" key="DebuggerActiveHint" timestamp="1600006005101">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -176,38 +197,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1364" y="580" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599923125410" />
-    <state width="2560" height="402" key="GridCell.Tab.0.bottom" timestamp="1600018418723">
+    <state width="2560" height="495" key="GridCell.Tab.0.bottom" timestamp="1600101074600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="402" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600018418723" />
-    <state width="2560" height="402" key="GridCell.Tab.0.center" timestamp="1600018418723">
+    <state width="2560" height="495" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074600" />
+    <state width="2560" height="495" key="GridCell.Tab.0.center" timestamp="1600101074600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="402" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600018418723" />
-    <state width="2560" height="402" key="GridCell.Tab.0.left" timestamp="1600018418723">
+    <state width="2560" height="495" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074600" />
+    <state width="2560" height="495" key="GridCell.Tab.0.left" timestamp="1600101074600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="402" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600018418723" />
-    <state width="2560" height="402" key="GridCell.Tab.0.right" timestamp="1600018418723">
+    <state width="2560" height="495" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074600" />
+    <state width="2560" height="495" key="GridCell.Tab.0.right" timestamp="1600101074600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="402" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600018418723" />
-    <state width="2560" height="495" key="GridCell.Tab.1.bottom" timestamp="1600006552454">
+    <state width="2560" height="495" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074600" />
+    <state width="2560" height="495" key="GridCell.Tab.1.bottom" timestamp="1600101074601">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="495" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600006552454" />
-    <state width="2560" height="495" key="GridCell.Tab.1.center" timestamp="1600006552454">
+    <state width="2560" height="495" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074601" />
+    <state width="2560" height="495" key="GridCell.Tab.1.center" timestamp="1600101074601">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="495" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600006552454" />
-    <state width="2560" height="495" key="GridCell.Tab.1.left" timestamp="1600006552454">
+    <state width="2560" height="495" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074601" />
+    <state width="2560" height="495" key="GridCell.Tab.1.left" timestamp="1600101074601">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="495" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600006552454" />
-    <state width="2560" height="495" key="GridCell.Tab.1.right" timestamp="1600006552454">
+    <state width="2560" height="495" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074601" />
+    <state width="2560" height="495" key="GridCell.Tab.1.right" timestamp="1600101074601">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2560" height="495" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600006552454" />
+    <state width="2560" height="495" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600101074601" />
     <state x="783" y="331" key="SettingsEditor" timestamp="1599923139387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -237,9 +258,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="wc[m]" language="JAVA" />
-        <watch expression="nextLocList" language="JAVA" />
-        <watch expression="board[targetX][targetY]" language="JAVA" />
+        <watch expression="n.left.val" language="JAVA" />
+        <watch expression="n.right.val" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
