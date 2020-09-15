@@ -110,7 +110,7 @@ class Solution {
 
     public boolean calcNodeList(List<Node> nodeList, int startLoc){
             Node n = nodeList.get(startLoc);
-            if(startLoc ==(nodeList.size() - 1)){
+            if(startLoc ==(nodeList.size() - 1) && n.getValue() != 0){
                 return true;
             }
             if(n.getValue() != 0){
